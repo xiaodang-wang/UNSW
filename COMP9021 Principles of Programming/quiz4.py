@@ -5,7 +5,7 @@
 # when this name was most popular in terms of frequency of names being given,
 # as a female name and as a male name.
 # 
-# Written by *** and Eric Martin for COMP9021
+# Written by Xiaodan Wang and Eric Martin for COMP9021
 
 
 import os
