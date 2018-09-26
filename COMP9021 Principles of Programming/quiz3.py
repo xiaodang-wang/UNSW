@@ -52,7 +52,7 @@
 # We do not count triangles that are truncations of larger triangles, that is, obtained
 # from the latter by ignoring at least one layer, starting from the base.
 #
-# Written by Xiaod and Eric Martin for COMP9021
+# Written by Xiaodan Wang and Eric Martin for COMP9021
 
 
 from random import seed, randint
