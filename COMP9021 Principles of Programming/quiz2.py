@@ -1,4 +1,4 @@
-# Written by *** and Eric Martin for COMP9021
+# Written by Xiaodan Wang and Eric Martin for COMP9021
 
 
 '''
