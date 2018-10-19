@@ -52,8 +52,12 @@ Projects: a simple Art ificial Intelligence programs in robotics area.
 
 
 ======== 2nd Semester 07/2018 - 11/2018 ========
+
 COMP9024 - Data Structures & Algorithms 
+
 COMP9032 - Microprocessors & Interfacing 
+
 COMP9321 - Data Services Engineering 
+
 COMP9331 - Computer Networks&Applications
 
