@@ -7,14 +7,14 @@ storage for codes in Master of IT UNSW
 == COMP9020 - Foundations of Comp. Science ==
 
   Mathematical methods for designing correct and efficient programs. Mathematics for algorithm analysis. Logic for proving and verification.
-    * Introduction to set and relation theory
-    * Propositional logic and boolean algebras
-    * Induction, recursion and recurrence relations
-    * Order of growth of functions
-    * Structured counting (combinatorics)
-    * Discrete probability
-    * Graph theory
-    * Trees for algorithmic applications
+  * Introduction to set and relation theory
+  * Propositional logic and boolean algebras
+  * Induction, recursion and recurrence relations
+  * Order of growth of functions
+  * Structured counting (combinatorics)
+  * Discrete probability
+  * Graph theory
+  * Trees for algorithmic applications
 
 == COMP9021 - Principles of Programming ==
 
@@ -27,12 +27,12 @@ storage for codes in Master of IT UNSW
 == COMP9311 - Database Systems ==
 
 A first course on database management systems. 
-    * Data modelling
-    * principles of database design
-    * data manipulation languages
-    * database application techniques
-    * introduction to DBMS internals
-    * introduction to advanced databases 
+  * Data modelling
+  * principles of database design
+  * data manipulation languages
+  * database application techniques
+  * introduction to DBMS internals
+  * introduction to advanced databases 
 Lab & Projects: design and implementation of a database application using SQL and stored procedures.
 
 == COMP9414 - Artificial Intelligence ==
